@@ -1,3 +1,3 @@
 # HTP1 · Forge Astrale (build)
 
-Compiled build of the private repository ragettostudio/HTP1-game-match-3. Published with GitHub Pages. Source commit: 206e56c.
+Compiled build of the private repository ragettostudio/HTP1-game-match-3. Published with GitHub Pages. Source commit: 03bed49.
